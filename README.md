@@ -15,3 +15,17 @@ Since the first launch of **RedirectUnlocked**, it was no one's intention to dis
 
 **Upon downloading any file from here, you will be liable for what you do, and I don't encourage executing it on your 
 real machine.**
+
+## Labels
+
+$\color{yellow}{\textsf{SS.0 : Seems shady}}$	
+
+$\color{yellow}{\textsf{SS.5 : Seems very shady}}$	
+
+$\color{yellow}{\textsf{SM.0 : Seems malware}}$	
+
+$\color{orange}{\textsf{SM.5 : Very likely malware}}$	
+
+$\color{red}{\textsf{CM.0 : Confirmed malware}}$	
+
+$\color{rgba(255,0,0, 0.4)}{\textsf{HR.0 : Extremly destructive malware confirmed}}$	
