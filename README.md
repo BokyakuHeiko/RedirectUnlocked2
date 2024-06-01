@@ -1,6 +1,5 @@
 # RedirectUnlocked 2
-$\color{red}{\textsf{Upon downloading any file from here, you will be liable for what you do, and I don't encourage executing it on your 
-real machine.}}$	
+$\color{red}{\textsf{Upon downloading any file from here, you will be liable for what you do, and I don't encourage running the files here.}}$	
 
 **RedirectUnlocked 2** is another project to archive all **malicious redirects** that can be downloaded from the game piracy website, **SteamUnlocked**, in which you need to caution when using, because of several malicious redirects that the site contains upon entering its premium host, **UploadHaven**.
 
