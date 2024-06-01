@@ -1,6 +1,8 @@
 # RedirectUnlocked 2
 **RedirectUnlocked 2** is another project to archive all **malicious redirects** that can be downloaded from the game piracy website, **SteamUnlocked**, in which you need to caution when using, because of several malicious redirects that the site contains upon entering its premium host, **UploadHaven**.
 
+![MalwareUnlocked](https://i.imgur.com/4Ll5Csn.png)
+
 ## Disclaimer
 The files in this site are malicious, can slow down your machine, cause really costful damages to your machine and even infect your network, making it that other computers are struck with this.
 
