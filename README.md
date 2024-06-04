@@ -3,7 +3,7 @@ $\color{red}{\textsf{Upon downloading any file from here, you will be liable for
 
 **RedirectUnlocked 2** is another project to archive all **malicious redirects** that can be downloaded from the game piracy website, **SteamUnlocked**, in which you need to caution when using, because of several malicious redirects that the site contains upon entering its premium host, **UploadHaven**.
 
-(If there is no update for some time, its because we need to wait for new redirects, since for some time it will have the same redirects)
+(*If there is no update for some time, its because we need to wait for new redirects, since for some time it will have the same redirects*)
 
 ![MalwareUnlocked](https://i.imgur.com/4Ll5Csn.png)
 
